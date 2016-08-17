@@ -1,0 +1,14 @@
+layout_spectrum: 0.10152435419149697
+typography_spectrum: 0.3998815668746829
+color:
+  brandStrength: 0.716950387461111
+  lightness: 0.7088227819185704
+  saturation: 0.15924460510723293
+  rhythmicContrast: 0.30524650448933244
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+name: unreal robotics
