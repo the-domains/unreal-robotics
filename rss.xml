@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[unreal robotics]]></title>
+        <description><![CDATA[unreal robotics]]></description>
+        <link>https://thegrid.ai/unreal-robotics/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 18:56:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/unreal-robotics/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New SpaceX landing photos make you feel like the rocket is coming down on top of you]]></title>
+            <description><![CDATA[<article><h1>New SpaceX landing photos make you feel like the rocket is coming down on top of you</h1><p>Up until now, we've really only seen SpaceX's rocket landing in the middle of the ocean from afar. Chase planes near the drone ship provided a spectacular view of the milestone event, but now, S...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aaef34df6ca9a285c5bdf2adaf9b1abfcc018b79.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/4/12/11415518/spacex-rocket-landing-close-up-photos-falcon-9</link>
+            <guid isPermaLink="false">d1e4088d-9300-4630-896e-247e39eebb83</guid>
+            <pubDate>Wed, 17 Aug 2016 18:56:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Coolest Tech at SXSW Interactive This Year]]></title>
+            <description><![CDATA[<article><h1>The Coolest Tech at SXSW Interactive This Year</h1><p>Everything from lifelike humanoids to VR-recording apps at SXSW Interactive 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/914b8f2c193ba23977d43dd2927ac45c36498fd3.jpg"></article>]]></description>
+            <link>https://www.thrillist.com/tech/nation/the-coolest-tech-at-sxsw-interactive-2016/tech</link>
+            <guid isPermaLink="false">51bef22e-a95d-45cf-828c-d9486c6f1caa</guid>
+            <pubDate>Wed, 17 Aug 2016 18:56:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
