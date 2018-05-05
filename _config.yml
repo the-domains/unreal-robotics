@@ -1,14 +1,25 @@
-layout_spectrum: 0.10152435419149697
-typography_spectrum: 0.3998815668746829
 color:
-  brandStrength: 0.716950387461111
-  lightness: 0.7088227819185704
-  saturation: 0.15924460510723293
-  rhythmicContrast: 0.30524650448933244
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+  brandStrength: 0.2180735922884196
+  lightness: 0.909509442280978
+  saturation: 0.34718915494158864
+  rhythmicContrast: 0.9638100841548294
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
 name: unreal robotics
+layout_spectrum: 0.05868114670738578
+typography_spectrum: 0.8259253017604351
+content: []
+title: dedsec
+description: unknown
+github: true
